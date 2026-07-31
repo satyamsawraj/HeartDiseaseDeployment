@@ -59,9 +59,18 @@ HeartDiseaseDeployment/
 
 The Flask application has been successfully deployed on **Render**.
 
-**Live Application URL**
+### Live Application
 
 https://heartdiseasedeployment-tkqe.onrender.com/
+
+### How to Test the Application
+
+1. Open the deployed application using the above URL.
+2. Enter valid patient details in all the input fields.
+3. Click the **Predict** button.
+4. The application will display one of the following results:
+   - **Heart Disease Detected**
+   - **No Heart Disease**
 
 ---
 
